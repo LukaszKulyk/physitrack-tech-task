@@ -1,0 +1,8 @@
+# Editor
+.idea
+.vscode
+
+node_modules
+
+# Filesystem
+.DS_Store
